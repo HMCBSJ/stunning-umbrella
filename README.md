@@ -1,0 +1,2 @@
+# stunning-umbrella
+This repo will present a system that predictesbinary results of judgment, deploying state-of-art, further building a DL hybrid model that is a combination of DLs that have different hypnosis on the analyzing data level. This is also realated to the my thesis topic.In this repo, I will use other judgment related other dataset and employ more advanced method and hypothesis to get not only better result but also more unserstandble and visuable results.
